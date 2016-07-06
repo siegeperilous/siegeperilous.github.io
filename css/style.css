@@ -10,7 +10,7 @@
 /* Basic */
 
 	body {
-		background: #614126;
+		background: #204341;
 	}
 
 	body, input, select, textarea {
@@ -988,7 +988,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: #614126;
+		background: #204341;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -1317,7 +1317,7 @@
 /* Footer */
 
 	#footer {
-		background: #614126;
+		background: #204341;
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}
